@@ -1,0 +1,10 @@
+.idea/
+.vscode/
+_output/
+bin/
+profile.cov
+hack/python-sdk/openapi-generator-cli.jar
+dep-crds/
+dep-manifests/
+vendor/
+.DS_Store
